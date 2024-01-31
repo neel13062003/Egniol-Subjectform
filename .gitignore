@@ -1,0 +1,13 @@
+*.env
+server/node_modules
+server/package-lock.json
+server/uploads
+
+client/node_modules
+client/package-lock.json
+client/build
+
+# dotenv environment variable files
+client/.env
+server/.env
+client/build
